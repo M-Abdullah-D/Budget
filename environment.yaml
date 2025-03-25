@@ -1,0 +1,9 @@
+name: budget-environment
+dependencies:
+  - python=3.9
+  - fastapi
+  - uvicorn
+  - sqlalchemy
+  - pydantic
+  - sqlite
+  - requests
